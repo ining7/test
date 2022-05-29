@@ -1,0 +1,6 @@
+.draw-panel {
+  flex: 1;
+  margin: 12px;
+  background-color: #ffffff;
+  position: relative;
+}
