@@ -1,0 +1,12 @@
+.right-panel {
+  width: 300px;
+  border-left: 1px solid #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  padding: 12px;
+}
+
+.between {
+  display: flex;
+  justify-content: space-between;
+}
