@@ -37,7 +37,7 @@ const videoBuildProps: (arg: buildArg) => VideoProps = ({id, x, y}) => {
     return {
         id,
         type: DrawType.VIDEO as const,
-        width: '160px',
+        width: '260px',
         height: '90px',
         left: x,
         top: y,
