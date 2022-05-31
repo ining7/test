@@ -1,0 +1,11 @@
+.left-panel {
+  width: 250px;
+  border-right: 1px solid #000000;
+  box-sizing: border-box;
+  background: #fff;
+  padding: 12px;
+}
+
+.component-list {
+  height: 80vh;
+}

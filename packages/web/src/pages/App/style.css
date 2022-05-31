@@ -1,0 +1,6 @@
+.app {
+  background-color: #eeeeee;
+  display: flex;
+  height: 100vh;
+  min-width: 920px;
+}
