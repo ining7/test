@@ -4,7 +4,7 @@ import useEditorAction from '../../store/Editor/action'
 import {DrawType} from '@/draw'
 import './style.css'
 import {useEditorContext} from "@/store/Editor/context";
-
+//in
 type VideoProps = {
     id: string
     type: DrawType.VIDEO
